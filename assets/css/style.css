@@ -1,0 +1,49 @@
+body {
+  background: rgb(0, 22, 36);
+  background: linear-gradient(
+    333deg,
+    rgba(0, 22, 36, 1) 0%,
+    rgba(37, 38, 41, 0.9332107843137255) 32%,
+    rgba(17, 30, 84, 1) 100%
+  );
+  background-repeat: no-repeat;
+}
+
+.rounded-circle-img {
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.main-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-portfolio {
+  width: 400px;
+  height: 300px;
+}
+
+.card-img-top {
+  width: auto;
+  height: 200px;
+  
+}
+
+.custom-border {
+  border: 3px solid #0eecda;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  }
+
+  .fucsita {
+    color: #0eecda;
+  }
+
+ 
+
+  
