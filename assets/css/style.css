@@ -9,6 +9,10 @@ body {
   background-repeat: no-repeat;
 }
 
+.container {
+  padding-top: 5rem;
+}
+
 .rounded-circle-img {
   border-radius: 50%;
   overflow: hidden;
